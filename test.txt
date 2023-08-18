@@ -1,2 +1,2 @@
-a commit to branch_1
-a commit to branch_2
+this line should be in first commit
+this line should be in second commit
